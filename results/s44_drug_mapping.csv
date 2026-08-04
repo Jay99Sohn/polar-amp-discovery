@@ -1,0 +1,11 @@
+Class,rep_clinical_drug,clinical_importance,mechanism_note,n_genes,samples_with_%
+BETA-LACTAM,penicillins/cephalosporins/**carbapenems**/monobactams,carbapenem=last resort for severe infection; WHO critical (CRE),metallo-β-lactamase/blaOXA detected=carbapenem-inactivation signal,8,99
+GLYCOPEPTIDE,**vancomycin**/teicoplanin,Gram+ last resort; WHO high (VRE),17 van genes (incl. vanA)=complete high-level-resistance machinery,17,78
+AMINOGLYCOSIDE,gentamicin/amikacin/tobramycin,Watch; core of severe combination therapy,many aac/aph=modifying-enzyme resistance,10,90
+MACROLIDE,erythromycin/azithromycin,Watch; first-line respiratory,erm=ribosomal methylation,1,58
+RIFAMYCIN,rifampin,first-line anti-TB,arr=rifampin ADP-ribosylation,3,100
+TETRACYCLINE,doxycycline/tigecycline,Watch/Reserve,tet efflux/protection,2,9
+PHENICOL,chloramphenicol,Access,-,3,35
+FOSFOMYCIN,fosfomycin,Access (UTI),-,3,41
+TRIMETHOPRIM,trimethoprim (+sulfa),Access,dfrB,2,33
+STREPTOGRAMIN,quinupristin/dalfopristin,Reserve (VRE alternative),-,1,9

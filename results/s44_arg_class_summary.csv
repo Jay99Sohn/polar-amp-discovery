@@ -1,0 +1,16 @@
+Class,n_genes,total_norm_abund,prevalence_%,samples_with_%,drug_class
+GLYCOPEPTIDE,17,0.1,9.0,78,antibiotic
+AMINOGLYCOSIDE,10,0.1,22.0,90,antibiotic
+BETA-LACTAM,8,0.7,33.0,99,antibiotic
+MERCURY,8,0.2,27.0,100,(heavy-metal co-selection)
+EFFLUX,6,0.0,1.0,3,(multidrug efflux)
+ARSENIC,3,1.5,97.0,100,(heavy-metal co-selection)
+COPPER,3,0.0,0.0,0,(heavy-metal co-selection)
+PHENICOL,3,0.0,12.0,35,antibiotic
+FOSFOMYCIN,3,0.0,15.0,41,antibiotic
+RIFAMYCIN,3,0.4,38.0,100,antibiotic
+TRIMETHOPRIM,2,0.0,17.0,33,antibiotic
+TETRACYCLINE,2,0.0,4.0,9,antibiotic
+BLEOMYCIN,1,0.0,0.0,0,antibiotic
+MACROLIDE,1,0.0,33.0,58,antibiotic
+STREPTOGRAMIN,1,0.0,9.0,9,antibiotic

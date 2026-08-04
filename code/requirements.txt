@@ -1,0 +1,14 @@
+# 2026 Polar Big Data & AI Competition — reproducibility environment
+# OS: Windows 11 (10.0.26200) / Python 3.13.2
+# Install: python -m pip install -r requirements.txt
+numpy==2.2.3
+pandas==2.2.3
+scikit-learn==1.9.0
+xgboost==3.3.0
+scipy==1.18.0
+matplotlib==3.11.0
+# sequence analysis / gene prediction / IO (used by the discovery + validation scripts)
+biopython
+pyrodigal
+openpyxl
+joblib

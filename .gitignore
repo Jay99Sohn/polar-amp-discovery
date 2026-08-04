@@ -1,0 +1,23 @@
+# Raw / reference data — never committed (KPDC redistribution not permitted; reference DBs are large)
+*.fasta
+*.fa
+*.fastq
+*.fastq.gz
+dataset/
+ref/
+verify_ref/
+mmwork/
+uniprot_sprot*
+AMPSphere*
+AMP.tsv
+*.mmseqsdb*
+
+# Python
+__pycache__/
+*.pyc
+
+# OS / misc
+.DS_Store
+Thumbs.db
+*.zip
+tmp*/
