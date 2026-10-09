@@ -73,4 +73,4 @@ Physicochemical features → RandomForest AMP classifier (beats a length+charge 
 
 ---
 
-*License: MIT (code & docs only; see `LICENSE`). This project was created for the 2026 Polar Big Data & AI Competition.*
+*License: All rights reserved (see `LICENSE`). This project was created for the 2026 Polar Big Data & AI Competition.*
